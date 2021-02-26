@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: sb_swagger2
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: yangxh
+Implementation-Vendor-Id: com.huarui
+Build-Jdk: 1.8.0_201
+Implementation-URL: http://projects.spring.io/spring-boot/sb_swagger2/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
